@@ -1,0 +1,17 @@
+.nav-container{
+    background-color: #000000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #ffffff;
+}
+
+.list-container{
+    display: flex;
+    list-style-type: none;
+}
+.nav-link{
+    text-decoration: none;
+    margin-right: 20px;
+    color: #ffffff;
+}
